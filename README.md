@@ -6,3 +6,6 @@ A simple HTTP Status code Response Grabber from Mass Links/Domains using C#
 - Take the Links/ Domains from the Clipboard when you click "Import Domains".
 - Auto Scroll Ascending while checking.
 - Copy the selected items from the listview by double clicking on them.
+
+
+![image](https://github.com/Mf4Tn/HttpX-GUI/assets/75338199/a2eb5adc-7ea6-413d-b3c9-b21f069ee070)
