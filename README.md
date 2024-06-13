@@ -5,3 +5,4 @@ A simple HTTP Status code Response Grabber from Mass Links/Domains using C#
 - Threading Support.
 - Take the Links/ Domains from the Clipboard when you click "Import Domains".
 - Auto Scroll Ascending while checking.
+- Copy the selected items from the listview by double clicking on them.
