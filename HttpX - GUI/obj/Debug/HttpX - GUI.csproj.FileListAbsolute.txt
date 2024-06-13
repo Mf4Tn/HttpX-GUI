@@ -1,0 +1,13 @@
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\bin\Debug\HttpX - GUI.exe.config
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\bin\Debug\HttpX - GUI.exe
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\bin\Debug\HttpX - GUI.pdb
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX - GUI.csprojAssemblyReference.cache
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX___GUI.Form1.resources
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX___GUI.Properties.Resources.resources
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX - GUI.csproj.GenerateResource.cache
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX - GUI.csproj.CoreCompileInputs.cache
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX - GUI.exe
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX - GUI.pdb
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\bin\Debug\Leaf.xNet.dll
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\bin\Debug\Leaf.xNet.xml
+C:\Users\Mf4Tn\source\repos\HttpX - GUI\HttpX - GUI\obj\Debug\HttpX - GUI.csproj.CopyComplete
